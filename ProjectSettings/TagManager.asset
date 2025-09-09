@@ -3,12 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - GameBoard
+  - Gift
+  - Candy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - GameBoard
   - Water
   - UI
   - 
